@@ -15,9 +15,9 @@ A news app for mobile.
 
 ## Demo
 
-#### [Live site](https://newsbox.martinbruun.dk/)
+### [Live site 👈](https://newsbox.martinbruun.dk/)
 
-:point_up:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b5deb8-a4fb-471e-be20-0dafdc4c7490/deploy-status)](https://app.netlify.com/sites/silver-phoenix-ca99af/deploys)
 
 ## Run Locally
 
